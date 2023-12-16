@@ -1,7 +1,8 @@
 # React & Tailwind CSS Starter Pack
 
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
-
+# Live Link: https://657d3920cd7a7c7907dda1a2--rococo-piroshki-5ffff1.netlify.app/
+  
 ## Usage
 
 This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
